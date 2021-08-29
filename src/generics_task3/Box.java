@@ -1,6 +1,7 @@
 package generics_task3;
 
 public class Box<K, T extends Fruit> {
+
     private K name;
     private T obj;
 

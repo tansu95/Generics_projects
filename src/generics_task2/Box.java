@@ -1,6 +1,7 @@
 package generics_task2;
 
 public class Box<K, T> {
+
     private K key;
     private T obj;
 

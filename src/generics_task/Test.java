@@ -1,6 +1,7 @@
 package generics_task;
 
 public class Test {
+
     public static void main(String[] args) {
         // параметризируем класс типом String
         Box<String> sample1 = new Box<>("Runtime");

@@ -1,6 +1,7 @@
 package generics_task2;
 
 public class Test {
+
     public static void main(String[] args) {
         // параметризируем класс типом String для ключа и значения
         Box<String, String> sample1 = new Box<>("имя", "Runtime");
